@@ -8,7 +8,7 @@ Release:          6.1%{?dist}
 Summary:          Transaction 1.1 API
 
 License:          CDDL or GPLv2 with exceptions
-Url:              http://www.jboss.org
+Url:              https://www.jboss.org
 
 # git clone git://github.com/jboss/jboss-transaction-api_spec.git jboss-transaction-1.1-api
 # cd jboss-transaction-1.1-api/ && git archive --format=tar --prefix=jboss-transaction-1.1-api/ jboss-transaction-api_1.1_spec-1.0.1.Final | xz > jboss-transaction-1.1-api-1.0.1.Final.tar.xz
